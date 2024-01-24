@@ -1,0 +1,79 @@
+/* styles.css */
+body {
+font-family: 'Arial, sans-serif';
+margin: 0;
+padding: 0;
+}
+
+.container {
+max-width: 800px;
+margin: 20px auto;
+}
+
+.header {
+background-color: #ffffff;
+color: #fff;
+padding: 10px;
+}
+
+h1 {
+margin: 0;
+color: orangered;
+}
+
+h2 {
+color: orangered;
+}
+
+p {
+color: #6b6b6b;
+}
+
+ul {
+list-style-type: none;
+padding: 0;
+}
+
+li {
+margin-bottom: 5px;
+}
+
+.button {
+background-color: #351eff;
+color: #fff;
+border: none;
+padding: 10px;
+cursor: pointer;
+}
+
+.dark-mode {
+background-color: #000000;
+color: #fff;
+}
+
+.light-mode {
+    background-color: #ffffff;
+    color: #000;
+  }
+
+/* styles.css */
+.skills-table {
+width: 100%;
+border-collapse: collapse;
+margin-top: 15px;
+}
+
+.skills-table th,
+.skills-table td {
+border: 1px solid orangered;
+padding: 8px;
+text-align: left;
+}
+
+.skills-table th {
+background-color: orangered;
+}
+  
+
+/* Add other styles for light and dark mode as needed */
+  
